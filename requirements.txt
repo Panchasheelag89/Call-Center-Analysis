@@ -1,0 +1,9 @@
+deepgram-sdk
+python-dotenv
+textblob
+scikit-learn
+pandas
+numpy
+streamlit
+transformers
+torch
